@@ -1,0 +1,3 @@
+Add-AppxPackage -DisableDevelopmentMode -Register "AppXManifest.xml"
+
+reset-AppxPackage -Package MicrosoftWindows.Client.CBS_321.14700.0.3_x64__cw5n1h2txyewy
